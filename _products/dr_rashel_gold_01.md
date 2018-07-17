@@ -13,6 +13,7 @@ sizes:
   - 80ml
 styles:
   - name: Black
-    image: /images/products/rashelgold/black.jpg
+    image: /images/products/drrashel/gold_col_01.jpg
   - name: Blue
-    image: /images/products/rashelgold/blue.jpg
+    image: /images/products/drrashel/gold_col_01.jpg
+---
