@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Fur
-url: "http://turquoise-rook.cloudvent.net/"
+title: DeeShop
+url: "deeshop.github.io"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -12,10 +12,10 @@ snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5O
 logo: /siteicon.png
 description: Fur t-shirt store
 author:
-  name: fur
-  email: fur@example.com
+  name: DeeShop
+  email: deeshoplk@gmail.com
   twitter: fur # twitter username without the @ symbol
-  phone: "+1 23456789"
+  phone: "+94 774 557 612"
 social:
   name: Fur Template
   links:
@@ -23,7 +23,7 @@ social:
 
 # -----
 # Build
-timezone: Etc/UTC
+timezone: SLST/UTC
 
 collections:
   staff_members:
